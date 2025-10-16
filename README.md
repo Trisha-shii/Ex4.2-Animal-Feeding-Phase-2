@@ -97,6 +97,8 @@ public class DetectCollision : MonoBehaviour
 }
 ```
 ## Output:
+<img width="1917" height="1124" alt="Screenshot 2025-10-13 110036" src="https://github.com/user-attachments/assets/dd02befc-2be0-456e-90d2-af9d242d7716" />
+
 
 
 ## Result:
